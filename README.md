@@ -43,5 +43,3 @@ The analysis is performed on structured datasets (CSV/Excel) covering:
 - Strategic recommendations to **optimize marketing spend and admissions flow**
 
 ---
-
-## 📁 Repository Structure
